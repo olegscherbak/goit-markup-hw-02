@@ -1,1 +1,171 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #2f303a;
+}
 
+/* ========== HEADER ========== */
+.link-logo {
+  font-family: Raleway;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+  text-decoration: none;
+}
+.link-logo-black {
+  font-family: Raleway;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+.list-navigation-item {
+  list-style-type: none;
+}
+.link {
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+  text-decoration: none;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+.link-contact {
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+.link-contact:hover,
+.link-contact:focus {
+  color: #2196f3;
+}
+/* ========== END HEADER ========== */
+
+/* ========== SECTION MAIN ========== */
+.section-main {
+  background: #2f303a;
+}
+.hero-title {
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.btn {
+  font-size: 16px;
+  line-height: 1.87;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  background: #2196f3;
+  cursor: pointer;
+}
+/* ========== END SECTION MAIN ========== */
+
+/* ========== SECTION FEATURES ========== */
+.title {
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.section-features-title {
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.section-features-item {
+  list-style-type: none;
+}
+.section-features-paragraf {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/* ========== END SECTION FEATURES ========== */
+
+/* ========== SECTION WORD ========== */
+.section-work-item {
+  list-style-type: none;
+}
+/* ========== END SECTION WORD ========== */
+
+/* ========== SECTION TEAM ========== */
+.section-team-title {
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.section-team-paragraf {
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.section-team-item {
+  list-style-type: none;
+}
+/* ========== END SECTION TEAM ========== */
+
+/* ========== FOOTER ========== */
+.footer {
+  background: #2f303a;
+}
+.link-logo-white {
+  color: #ffffff;
+}
+.Country {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.footer-address {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+/* ========== END FOOTER ========== */
+
+/* ========== PORTFOLIO ========== */
+.portfolio-btn {
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.portfolio-btn:hover,
+.portfolio-btn:focus {
+  background: #2196f3;
+  color: #ffffff;
+}
+.section-portfolio-item {
+  list-style-type: none;
+}
+.portfolio-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.portfolio-paragraf {
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
