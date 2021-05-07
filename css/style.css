@@ -156,6 +156,7 @@ body {
 .portfolio-btn:focus {
   background: #2196f3;
   color: #ffffff;
+  cursor: pointer;
 }
 .section-portfolio-item {
   list-style-type: none;
